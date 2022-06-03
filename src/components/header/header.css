@@ -91,7 +91,7 @@
     background-color: var(--white-color);
     width: 250px;
     padding: 20px 30px;
-    box-shadow:  1px 10px 10px 1px rgba(0, 0, 0, 0.1);
+    box-shadow:  1px 10px 10px 1px rgba(0, 0, 0, 0.3);
     animation: dropDown 0.5s ease-in;
     display: none;
 }
@@ -104,6 +104,7 @@
     font-size: 0.9rem;
     color: var(--txt-bold);
     font-weight: 600;
+    transition: opacity .5s ease;
 }
 
 /* tools header */

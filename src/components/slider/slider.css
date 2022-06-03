@@ -1,0 +1,101 @@
+.slider {
+    height: 500px;
+    width: 100%;
+    
+}
+
+.slider-wrapper {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+
+}
+
+.open {
+    display: flex !important;
+}
+
+.slider__item {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100%; 
+
+    
+    /* position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0; */
+   
+}
+
+.slider__item > img{
+    width: 100%;
+    animation: zoomImg 6s ease-in;
+}
+
+
+.prev-slider , .next-slider {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: var(--white-color);
+    color: var(--primary-color);
+    font-size: 3rem;
+    transition: all .3s ease-in;
+    box-shadow: var(--box-shadow);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.prev-slider:hover , .next-slider:hover {
+    background-color: var(--primary-color);
+    color: var(--white-color);
+    width: 65px;
+    height: 65px;
+}
+
+.prev-slider {
+    left: 20px;
+}
+
+.next-slider {
+    right: 20px ;
+}
+
+
+.slider__item-text {
+    color: var(--white-color);
+    position: absolute;
+    text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.);
+    transition: all .3s ease-in;
+}
+
+.slider__item-slogan {
+    font-size: 3rem;
+    font-family: 'Satisfy', cursive;
+    font-style: italic;
+    font-weight: 100;
+    animation: slideUp .6s ease-in;
+}
+
+.slider__item-title {
+    font-size: 7.3rem;
+    font-weight: 600;
+    animation: slideUp .8s ease-in;
+}
+
+.slider__item-des {
+    font-size: 1.2rem;
+    padding: 0 300px;
+    animation: slideUp 1s ease-in;
+}

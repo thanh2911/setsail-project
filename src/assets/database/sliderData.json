@@ -1,0 +1,20 @@
+[
+    {
+        "background" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/09/skiing-parallax-1.jpg" ,
+        "slogan" : "Enjoy Your" ,
+        "title" : "Winter Vacations" ,
+        "des" : "Lorem ipsum dolor sit amet, consectetuer adipising elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme."
+    },
+    {
+        "background" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/10/tour-featured-img-16.jpg" ,
+        "slogan" : "Tour Place" ,
+        "title" : "Snow Adventure" ,
+        "des" : "Lorem ipsum dolor sit amet, consectetuer adipising elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme."
+    },
+    {
+        "background" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/10/tour-featured-img-15.jpg" ,
+        "slogan" : "Enjoy Your" ,
+        "title" : "Winter Vacations" ,
+        "des" : "Lorem ipsum dolor sit amet, consectetuer adipising elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme."
+    }
+]

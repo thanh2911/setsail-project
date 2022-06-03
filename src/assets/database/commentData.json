@@ -1,0 +1,54 @@
+[
+    {
+        "img" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/09/user-img-1.png" ,
+        "title_tour" : "Holland Canals",
+        "review" : "5",
+        "comment" : "Sa etor aviues lmpedlt tes, vof ef nihc agem qupaios. Ai apvy " ,
+        "name" : "Ema Cooper "
+    },
+    {
+        "img" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/09/user-img-2.png" ,
+        "title_tour" : "Taipei",
+        "review" : "3",
+        "comment" : "Sa etor aviues lmpedlt tes, vof ef nihc agem qupaios. Ai apvy " ,
+        "name" : "Susan Day"
+    },
+
+    {
+        "img" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/09/user-img-3.png" ,
+        "title_tour" : "Madrid",
+        "review" : "4",
+        "comment" : "Sa etor aviues lmpedlt tes, vof ef nihc agem qupaios. Ai apvy " ,
+        "name" : "Roger Brooks"
+    },
+    {
+        "img" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/09/user-img-4.png" ,
+        "title_tour" : "Temple Tour",
+        "review" : "5",
+        "comment" : "Sa etor aviues lmpedlt tes, vof ef nihc agem qupaios. Ai apvy " ,
+        "name" : "Carol Silva"
+    },
+    {
+        "img" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/09/user-img-5.png" ,
+        "title_tour" : "Kaohsiung",
+        "review" : "2",
+        "comment" : "Sa etor aviues lmpedlt tes, vof ef nihc agem qupaios. Ai apvy " ,
+        "name" : "James Fisher"
+    },
+    {
+        "img" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/09/user-img-6.png" ,
+        "title_tour" : "Barcelona",
+        "review" : "5",
+        "comment" : "Sa etor aviues lmpedlt tes, vof ef nihc agem qupaios. Ai apvy " ,
+        "name" : "Ly Onri"
+    },
+    
+    {
+        "img" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/09/user-img-7.png" ,
+        "title_tour" : "Tarragona",
+        "review" : "4",
+        "comment" : "Sa etor aviues lmpedlt tes, vof ef nihc agem qupaios. Ai apvy " ,
+        "name" : "Ty Plyn"
+    }
+
+]

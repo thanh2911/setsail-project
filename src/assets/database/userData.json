@@ -1,0 +1,58 @@
+[
+    {
+        "avatar" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/09/our-team-img-6-1.jpg",
+        "name" : "Joe Avery",
+        "des" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem lorem" ,
+        "social" : {
+            "Twitter" : "#" ,
+            "Facebook" : "#",
+            "Instagram" : "#",
+            "Pinterest" : "#"
+        }
+    },
+    {
+        "avatar" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/09/our-team-img-7-1.jpg",
+        "name" : "Jack Burton",
+        "des" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem lorem" ,
+        "social" : {
+            "Twitter" : "#" ,
+            "Facebook" : "#",
+            "Instagram" : "#",
+            "Pinterest" : "#"
+        }
+    },
+    {
+        "avatar" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/09/our-team-img-8-1.jpg",
+        "name" : "Lavi Junte",
+        "des" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem lorem" ,
+        "social" : {
+            "Twitter" : "#" ,
+            "Facebook" : "#",
+            "Instagram" : "#",
+            "Pinterest" : "#"
+        }
+    },
+    {
+        "avatar" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/09/our-team-img-9.jpg",
+        "name" : "Pllu Poin",
+        "des" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem lorem" ,
+        "social" : {
+            "Twitter" : "#" ,
+            "Facebook" : "#",
+            "Instagram" : "#",
+            "Pinterest" : "#"
+        }
+    },
+    {
+        "avatar" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/09/our-team-img-4.jpg",
+        "name" : "Pin Heo",
+        "des" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem lorem" ,
+        "social" : {
+            "Twitter" : "#" ,
+            "Facebook" : "#",
+            "Instagram" : "#",
+            "Pinterest" : "#"
+        }
+    }
+
+]

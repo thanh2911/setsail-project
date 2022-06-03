@@ -1,0 +1,52 @@
+[
+    {
+        "img" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/10/tour-featured-img-15.jpg" ,
+        "amount" : "1" ,
+        "age_limit" : "13",
+        "type_tour" : "Skiing" ,
+        "name_tour" : "Skiing In Alps",
+        "des" : "Lorem ipsum dolor sit amet, consectetuer adipiscing el.… " ,
+        "price" : "1000" ,
+        "review" : "6.0"
+    },
+    {
+        "img" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/10/tour-featured-img-16.jpg" ,
+        "amount" : "1" ,
+        "age_limit" : "13",
+        "type_tour" : "Skiing" ,
+        "name_tour" : "Magic Of Italy",
+        "des" : "Lorem ipsum dolor sit amet, consectetuer adipiscing el.… " ,
+        "price" : "1000" ,
+        "review" : "6.7"
+    },
+    {
+        "img" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/10/tour-featured-img-18.jpg" ,
+        "amount" : "1" ,
+        "age_limit" : "13",
+        "type_tour" : "Skiing" ,
+        "name_tour" : "Snow Surfing",
+        "des" : "Lorem ipsum dolor sit amet, consectetuer adipiscing el.… " ,
+        "price" : "720" ,
+        "review" : "7.3"
+    },
+    {
+        "img" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/10/tour-featured-img-17.jpg" ,
+        "amount" : "1" ,
+        "age_limit" : "13",
+        "type_tour" : "Skiing" ,
+        "name_tour" : "Skiing In Alps",
+        "des" : "Lorem ipsum dolor sit amet, consectetuer adipiscing el.… " ,
+        "price" : "450" ,
+        "review" : "6.0"
+    },
+    {
+        "img" : "https://setsail.qodeinteractive.com/wp-content/uploads/2018/10/tour-featured-img-14.jpg" ,
+        "amount" : "1" ,
+        "age_limit" : "13",
+        "type_tour" : "Skiing" ,
+        "name_tour" : "Skiing In Alps",
+        "des" : "Lorem ipsum dolor sit amet, consectetuer adipiscing el.… " ,
+        "price" : "1023" ,
+        "review" : "7.3"
+    }
+]

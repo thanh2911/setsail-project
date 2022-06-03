@@ -19,6 +19,8 @@
 
 html {
     font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+    padding-top: 80px;
 }
 
 a {
@@ -40,9 +42,30 @@ button {
     border: none;
     color: var(--white-color);
     background-color: var(--primary-color);
+    cursor: pointer;
 }
 
 input {
     border: none;
     outline: none;
+}
+
+.txt-white {
+    color: var(--white-color);
+}
+
+button::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.2);
+    z-index: 10;
+    visibility: hidden;
+}
+
+button:hover::after {
+    visibility: visible;
 }

@@ -1,0 +1,44 @@
+.comment__item {
+    height: 240px !important;
+    margin: 0 5px;
+    background-color: var(--white-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    padding: 0 20px;
+    box-shadow: var(--box-shadow);
+}
+
+
+.comment__item-img img {
+    width: 140px;
+    margin-right: 30px;
+}
+
+.comment__item-user > * ~ * {
+    margin-bottom: 10px;
+}
+
+.comment__item-title {
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.comment__item-rate i {
+    font-size: 1.2rem;
+    color: var(--primary-color);
+}
+
+.comment__item-rate > * ~ * {
+    margin-left: 2px;
+}
+
+.comment__item-comment {
+    font-size: 1rem;
+}
+
+.comment__item-name {
+    font-size: 1rem;
+    font-weight: 600;
+}
